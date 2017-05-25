@@ -19,6 +19,7 @@ public class AList {
 	
 		System.out.println(number.get(0));
 		System.out.println(Lnumber.get(1));
+		System.out.println("Hi Venki");
 		
 		
 		for(Integer value: number)
